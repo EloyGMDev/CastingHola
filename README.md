@@ -39,7 +39,7 @@ python CastHola.py --serve --cast
 python CastHola.py --stop
 ```
 
-Place the file `Hola.png` in the same directory as the script before running it.
+Replace the file `Hola.png` in the same directory as the script before running it.
 
 ## Legal Notice
 
